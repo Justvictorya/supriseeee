@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Bryan Surprise",
+  "description": "An interactive, joyful birthday celebration surprise experience for Bryan featuring a 5-candle cake with auto and manual blow-out, falling confetti, floating balloons, typewriter wishes, and mystery gifts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
